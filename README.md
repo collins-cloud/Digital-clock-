@@ -1,7 +1,7 @@
 # Digital-clock
----
 
 A simple and responsive digital clock built using HTML, CSS, and JavaScript. This project displays the current time in real-time and updates every second.
+  
 ---
 # Live Demo
 
