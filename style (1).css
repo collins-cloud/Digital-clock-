@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  box-sizing:border-box;
+}
+
+body{
+  background-image:
+  url("Spiderm.jpg");
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.clock{
+  min-width:359px;
+  height:150px;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter:blur(5px);
+  border-radius:8px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+span{
+  color:white;
+  font-weight:bold;
+  font-size:60px;
+}
