@@ -5,6 +5,8 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. Thi
 ---
 # Live Demo
 
+https://collins-cloud.github.io/Digital-clock-/
+---
 # 📌 Features
 - Displays current hours, minutes, and seconds
 - Updates automatically every second
